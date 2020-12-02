@@ -39,7 +39,6 @@ Hierarchical clustering is a general family of clustering algorithms that build 
 		- Recap the signal correlation covered in EECS16A APS lab
 		- Apply agglomerative clustering with self-defined dissimilarity metric with both sklearn AggomerativeClustering and scipy linkage function
 		- Learn to choose the best number of clusters k from the dendrogram
-    
-    As for bikesharing system station clustering, students can work in a senario similar to what data scientists or machine learning algorithm engineers work on. From this process, students can
+	  As for bikesharing system station clustering, students can work in a senario similar to what data scientists or machine learning algorithm engineers work on. From this process, students can
 		- Reinforce their knowledge in EDA and visualization that are covered in previous sections of 16ML
 		- Design dissimilarity metric based on real setting
